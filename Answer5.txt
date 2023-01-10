@@ -1,0 +1,6 @@
+In the command line, navigate to the root directory of your project.
+Initialize the local directory as a Git repository.
+  git init -b main
+Stage and commit all the files in your project.
+  git add . && git commit -m "initial commit"
+  
